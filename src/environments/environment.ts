@@ -17,7 +17,7 @@ export const environment = {
     //MARKETPLACE | BTB | STANDARD
     mode: 'STANDARD',
     //API URL
-    apiUrl: "http://34.30.39.171:8080/api",
+    apiUrl: "http://34.30.39.171:4200/api",
     shippingApi: 'http://34.30.39.171:4200/shipping/api/v1',
     client: {
         language: {
