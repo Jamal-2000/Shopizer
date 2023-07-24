@@ -8,7 +8,7 @@ export const environment = {
     //MARKETPLACE | BTB | STANDARD
     mode: 'STANDARD',
     //API URL
-    apiUrl: window["env"]["APP_BASE_URL"] || 'https://34.30.39.171:4200/api/v1',
+    apiUrl: window["env"]["APP_BASE_URL"] || 'https://34.30.39.1:4200/api/v1',
     shippingApi: window["env"]["APP_SHIPPING_URL"] || 'http://34.30.39.171:4200/api',
     client: {
         language: {
